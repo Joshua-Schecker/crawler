@@ -1,0 +1,13 @@
+{
+  "folders": [{"path": "./"}],
+  "settings": {
+    "eslint.validate": [
+      "typescript",
+    ],
+    "typescript.preferences.importModuleSpecifier": "shortest",
+    "files.trimTrailingWhitespace": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+  },
+}

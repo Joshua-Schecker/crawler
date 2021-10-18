@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es2021",
+    "module": "ESNEXT",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "removeComments": true,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "baseUrl": ".",
+    "rootDir": ".",
+    "types": ["node"],
+    "esModuleInterop": true
+  },
+  "exclude": ["node_modules"]
+}
